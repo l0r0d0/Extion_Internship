@@ -50,7 +50,7 @@ This project focuses on understanding and analyzing a Slowloris Distributed Deni
 ### 3.1. Setup
 - **Environment:** 
   - **Metasploitable:** A vulnerable virtual machine configured as the target for the attack.
-![1](C:\Users\SIDDHARTH\OneDrive\Documents\GitHub\Extion_Internship\PIC\metasploitable_ifconfig.png)
+![1](PIC/metasploitable_ifconfig.png)
   - **Attacking Machine:** A separate machine configured to run `slowloris.pl`.
 ![2](C:\Users\SIDDHARTH\OneDrive\Documents\GitHub\Extion_Internship\PIC\slowloris_command.png)
 - **Tools:**
