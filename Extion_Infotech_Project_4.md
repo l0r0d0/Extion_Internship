@@ -64,7 +64,7 @@ This project focuses on understanding and analyzing a Slowloris Distributed Deni
   2. **Deploy Slowloris:** Configure `slowloris.pl` on the attacking machine with appropriate parameters.
   3. **Initiate Attack:** Start the Slowloris attack and monitor the target server's response.
   4. **Monitor Impact:** Observe the server’s connection behavior and performance using tools like Netstat and Wireshark.
-![3](C:\Users\SIDDHARTH\OneDrive\Documents\GitHub\Extion_Internship\PIC\wireshark_eth0.png)
+![3](PIC/wireshark_eth0.png)
 ### 3.3. Analysis
 - **Data Collection:** Gather network traffic logs, server performance metrics, and connection status from the attack and target machines.
 - **Results:**
