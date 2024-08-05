@@ -52,7 +52,7 @@ This project focuses on understanding and analyzing a Slowloris Distributed Deni
   - **Metasploitable:** A vulnerable virtual machine configured as the target for the attack.
 ![1](PIC/metasploitable_ifconfig.png)
   - **Attacking Machine:** A separate machine configured to run `slowloris.pl`.
-![2](PIC\slowloris_command.png)
+![2](PIC/slowloris_command.png)
 - **Tools:**
   - **slowloris.pl:** A Perl script used to perform the Slowloris attack.
   - **Wireshark:** For capturing and analyzing network traffic.
